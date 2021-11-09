@@ -1,6 +1,6 @@
 # Foodie-Restaurants Recommendation System
 
-![螢幕擷取畫面 (9)](https://user-images.githubusercontent.com/86417952/140856035-5607a631-88cd-4bc1-8f2c-de10863acb79.png)
+![螢幕擷取畫面 (9)](https://user-images.githubusercontent.com/86417952/140856035-5607a631-88cd-4bc1-8f2c-de10863acb79.png width="100%")
 
 [<h3>Dataset</h3>](https://www.yelp.com/dataset/)
 *  yelp_academic_dataset_business.json
@@ -12,8 +12,6 @@
 
 <h3>System Architecture Diagram</h3>
 
-![螢幕擷取畫面_2021-11-09_115833-removebg-preview](https://user-images.githubusercontent.com/86417952/140859534-1afbbb5c-29b6-4d1b-a4c5-3d0305475d6a.png)
-
-![image](https://user-images.githubusercontent.com/86417952/140859349-e1baaf7d-caa4-4312-bd4f-dc8633d402ea.png)
+![image](https://user-images.githubusercontent.com/86417952/140859349-e1baaf7d-caa4-4312-bd4f-dc8633d402ea.png width="200" height="400")
 
 
