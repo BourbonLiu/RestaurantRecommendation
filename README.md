@@ -1,6 +1,6 @@
 # Foodie-Restaurants Recommendation System
 
-<img src="(https://user-images.githubusercontent.com/86417952/140856035-5607a631-88cd-4bc1-8f2c-de10863acb79.png" width="100%">
+<img src="https://user-images.githubusercontent.com/86417952/140856035-5607a631-88cd-4bc1-8f2c-de10863acb79.png" width="100%">
 
 <!-- ![螢幕擷取畫面 (9)](https://user-images.githubusercontent.com/86417952/140856035-5607a631-88cd-4bc1-8f2c-de10863acb79.png width="100%") -->
 
