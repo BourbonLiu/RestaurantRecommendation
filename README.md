@@ -18,10 +18,15 @@
 
 <h2>System Architecture Diagram</h2>
 
-<img src="https://user-images.githubusercontent.com/86417952/140859349-e1baaf7d-caa4-4312-bd4f-dc8633d402ea.png">
+![image](https://user-images.githubusercontent.com/86417952/140859349-e1baaf7d-caa4-4312-bd4f-dc8633d402ea.png)
 
 
 <h2>Spring Boot Architecture Diagram</h2>
 ![image](https://user-images.githubusercontent.com/86417952/140873031-ae43f4c6-5cdc-40d1-b92a-03a0583c24a7.png)
+
+
+
+
+
 
 
