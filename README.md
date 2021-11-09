@@ -10,6 +10,6 @@
 *  yelp_academic_dataset_tip.json
 *  photos.json
 
-<h3>System</h3>
+<h3>System Architecture Diagram</h3>
 ![image](https://user-images.githubusercontent.com/86417952/140859091-226aefc1-0528-4d09-b67f-57bf6f809ddb.png)
 
