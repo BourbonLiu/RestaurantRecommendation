@@ -12,6 +12,8 @@
 
 <h3>System Architecture Diagram</h3>
 
+![螢幕擷取畫面_2021-11-09_115833-removebg-preview](https://user-images.githubusercontent.com/86417952/140859534-1afbbb5c-29b6-4d1b-a4c5-3d0305475d6a.png)
+
 ![image](https://user-images.githubusercontent.com/86417952/140859349-e1baaf7d-caa4-4312-bd4f-dc8633d402ea.png)
 
 
