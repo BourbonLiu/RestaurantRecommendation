@@ -22,6 +22,7 @@
 
 
 <h2>Spring Boot Architecture Diagram</h2>
+
 ![image](https://user-images.githubusercontent.com/86417952/140873031-ae43f4c6-5cdc-40d1-b92a-03a0583c24a7.png)
 
 
