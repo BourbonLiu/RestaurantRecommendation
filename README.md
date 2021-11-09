@@ -15,10 +15,6 @@
 <img src="https://user-images.githubusercontent.com/86417952/140859349-e1baaf7d-caa4-4312-bd4f-dc8633d402ea.png" width="100%">
 
 
-<h3>Tool</h3>
+<h3>Project Flow Chart & Tool</h3>
 
 ![image](https://user-images.githubusercontent.com/86417952/140870950-765b854c-7b47-4bae-b944-4984c99271c4.png)
-
-Front-End：CSS、HTML、JavaScript、Bootstrap、JQuery、Google Map Platform
-Back-End：Spring Boot、Spring Data JPA、Kafka Client、Thymeleaf
-Big Data : Hadoop、Livy、Kafka、ZoopKeeper
