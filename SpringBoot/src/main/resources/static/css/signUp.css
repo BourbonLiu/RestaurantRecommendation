@@ -1,0 +1,47 @@
+body {
+    background-color: #F0F0F0;
+    display: grid;
+}
+
+.allpage {
+    background-color: #F2EEE5;
+    width: 80%;
+    margin: 0% auto;
+}
+
+.content {
+    width: 90%;
+    margin: 5% auto;
+}
+
+.article {
+    width: 50%;
+    float: left;
+    height: 600px;
+}
+
+.section1 {
+    width: 80%;
+    position: relative;
+    top: 10%;
+}
+
+.aside {
+    width: 45%;
+    float: right;
+    height: 600px;
+}
+
+.footer {
+    width: 80%;
+    height: 80px;
+    margin: 0% auto;
+    padding: 15px;
+    background-color: #4d7a97;
+
+}
+
+.footer_text {
+    color: white;
+    text-align: center;
+}
