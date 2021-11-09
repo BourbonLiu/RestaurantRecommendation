@@ -12,6 +12,7 @@
 
 <h3>System Architecture Diagram</h3>
 
-![image](https://user-images.githubusercontent.com/86417952/140859349-e1baaf7d-caa4-4312-bd4f-dc8633d402ea.png width="200" height="400")
+<img src="https://user-images.githubusercontent.com/86417952/140859349-e1baaf7d-caa4-4312-bd4f-dc8633d402ea.png" width="400" height="790">
+<!-- ![image](https://user-images.githubusercontent.com/86417952/140859349-e1baaf7d-caa4-4312-bd4f-dc8633d402ea.png  width="400" height="790") -->
 
 
