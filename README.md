@@ -11,6 +11,7 @@
 *  photos.json
 
 <h3>System Architecture Diagram</h3>
+
 ![image](https://user-images.githubusercontent.com/86417952/140859349-e1baaf7d-caa4-4312-bd4f-dc8633d402ea.png)
 
 
