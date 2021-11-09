@@ -16,6 +16,6 @@
 
 
 <h3>Tool</h3>
-* Front-End：CSS、HTML、JavaScript、Bootstrap、JQuery、Google Map Platform
-* Back-End：Spring Boot、Spring Data JPA、Kafka Client、Thymeleaf
-* Big Data : Hadoop、Livy、Kafka、ZoopKeeper
+Front-End：CSS、HTML、JavaScript、Bootstrap、JQuery、Google Map Platform
+Back-End：Spring Boot、Spring Data JPA、Kafka Client、Thymeleaf
+Big Data : Hadoop、Livy、Kafka、ZoopKeeper
