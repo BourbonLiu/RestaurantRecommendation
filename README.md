@@ -11,7 +11,7 @@
 *  photos.json
 
 
-<h2>Project Flow Chart & Tool</h2>
+<h2>Project Flow Chart & Tools</h2>
 
 ![image](https://user-images.githubusercontent.com/86417952/140870950-765b854c-7b47-4bae-b944-4984c99271c4.png)
 
@@ -27,7 +27,7 @@
 
 
 
-
+<h3>*https://www.slideshare.net/JamesMa54/foodie-250654945</h3>
 
 
 
